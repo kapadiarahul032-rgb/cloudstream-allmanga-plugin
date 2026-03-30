@@ -1,0 +1,16 @@
+{
+  "name": "AllManga",
+  "description": "Browse and read manga from AllManga.to",
+  "version": "1.0.0",
+  "author": "YourName",
+  "repositoryUrl": "https://github.com/yourusername/cloudstream-allmanga-plugin",
+  "iconUrl": "https://allmanga.to/favicon.ico",
+  "iconBackgroundColor": "#ffffff",
+  "classPath": "com.example.AllMangaProvider",
+  "requiresResources": false,
+  "language": "en",
+  "status": 1,
+  "tvTypes": ["Manga"],
+  "isNsfw": false,
+  "sourceUrl": "https://allmanga.to"
+}
